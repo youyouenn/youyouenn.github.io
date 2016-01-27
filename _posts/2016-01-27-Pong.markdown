@@ -4,4 +4,4 @@ title:  "Pong!"
 date:   2016-01-27 15:53:23
 categories: jeux
 ---
-{% include mycomponent.html %}
+{% include pong.html %}
